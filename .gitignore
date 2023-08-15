@@ -22,3 +22,8 @@ target
 build/
 .gradle/
 .idea/
+/<iterator>
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
